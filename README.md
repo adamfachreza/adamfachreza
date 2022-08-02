@@ -1,8 +1,4 @@
-<h1>Hi! </h1>
-<p>Heya! I'm Adam Fachreza Utama, a currently living in Jakarta, Indonesia.</p>
-    
-    
-<h1>My Statistics</h1>   
+  <h1>My Statistics</h1>   
 
 <table>
 <tr>
