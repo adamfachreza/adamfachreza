@@ -25,4 +25,4 @@
 </tr>
 </table>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=adamfachreza&theme=synthwave-84)](https://github.com/adamfachreza/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=adamfachreza&theme=synthwave-84)](https://github.com/adamfachreza/github-readme-activity-graph) -->
